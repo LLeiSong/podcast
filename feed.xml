@@ -17,8 +17,8 @@
     </itunes:owner>
     <itunes:keywords>Society,Philosophy,Books</itunes:keywords>
     <copyright>如是和芥子 2023</copyright>
-    <description><p>We provide alternative perspective on classic and popular texts.</p><p>
-    《异世界》是一档以性别和酷儿等多元视角解读大众或通俗文本的播客。</p></description>
+    <description><![CDATA[<p>We provide alternative perspective on classic and popular texts.</p><p>
+    《异世界》是一档以性别和酷儿等多元视角解读大众或通俗文本的播客。</p>]]> </description>
     <googleplay:image href="https://LLeiSong.github.io/podcast/logo.jpg" />
     <language>zh</language>
     <itunes:explicit>no</itunes:explicit>
