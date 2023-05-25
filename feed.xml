@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Queer World 异世界</title>
+    <googleplay:author>如是和芥子</googleplay:author>
+    <author>如是和芥子</author>
+    <itunes:author>如是和芥子</itunes:author>
+    <itunes:email>queerworldpod@gmail.com</itunes:email>
+    <itunes:category text="Technology" />
+    <image>
+      <url>https://LLeiSong.github.io/podcast/logo.jpg</url>
+      <title>Queer World 异世界</title>
+    </image>
+    <itunes:owner>
+      <itunes:name>如是和芥子</itunes:name>
+      <itunes:email>queerworldpod@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:keywords>Society,Philosophy,Books</itunes:keywords>
+    <copyright>如是和芥子 2023</copyright>
+    <description>We provide alternative perspective on classic and popular texts.《异世界》是一档以性别和酷儿等多元视角解读大众或通俗文本的播客。</description>
+    <googleplay:image href="https://LLeiSong.github.io/podcast/logo.jpg" />
+    <language>zh</language>
+    <itunes:explicit>no</itunes:explicit>
+    <pubDate>Mon, 13 Apr 2020 13:00:00 PDT</pubDate>
+    <link>https://rodydavis.github.io/podcast-player/feed.xml</link>
+    <itunes:image href="https://LLeiSong.github.io/podcast/logo.jpg" />
+    <item>
+      <author>如是和芥子</author>
+      <itunes:author>如是和芥子</itunes:author>
+      <title>女子监狱(Orange Is the New Black)开播十周年纪念</title>
+      <pubDate>13 Mar 2023</pubDate>
+      <enclosure url="LLeiSong.github.io/podcast/audio/001_OITNB_Season1.mp3" type="audio/mpeg" length="34216300" />
+      <itunes:duration>54:08</itunes:duration>
+      <guid isPermaLink="false">cepod01</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>
+距离女子监狱。。。
+        </description>
+    </item>
+  </channel>
+</rss>
