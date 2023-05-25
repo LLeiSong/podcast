@@ -6,7 +6,6 @@
     <author>如是和芥子</author>
     <itunes:author>如是和芥子</itunes:author>
     <itunes:email>evonny2007@gmail.com</itunes:email>
-    <itunes:category text="Society &amp; Culture" />
     <image>
       <url>https://LLeiSong.github.io/podcast/logo.jpg</url>
       <title>Queer World 异世界</title>
@@ -17,22 +16,32 @@
     </itunes:owner>
     <itunes:keywords>Society,Philosophy,Books</itunes:keywords>
     <copyright>如是和芥子 2023</copyright>
-    <description><![CDATA[<p>We provide alternative perspective on classic and popular texts.</p><p>
-    《异世界》是一档以性别和酷儿等多元视角解读大众或通俗文本的播客。</p>]]> </description>
+    <description><![CDATA[<p>We provide alternative perspectives on classic and popular texts. Contact us: queerworldpod@gmail.com
+</p><p>
+    《异世界》是一档以性别和酷儿等多元视角解读大众或通俗文本的播客。联系我们：queerworldpod@gmail.com</p>]]> </description>
     <googleplay:image href="https://LLeiSong.github.io/podcast/logo.jpg" />
     <language>zh</language>
     <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:category text="TV &amp; Film">
+      <itunes:category text="TV Reviews"/>
+    </itunes:category>
+    <itunes:category text="Arts">
+      <itunes:category text="Books"/>
+    </itunes:category>
+    <itunes:category text="Society &amp; Culture" />
     <pubDate>13 Mar 2023</pubDate>
     <itunes:image href="https://LLeiSong.github.io/podcast/logo.jpg" />
     <item>
       <author>如是和芥子</author>
       <itunes:author>如是和芥子</itunes:author>
       <title>女子监狱(Orange Is the New Black)开播十周年纪念</title>
-      <pubDate>13 Mar 2023</pubDate>
+      <pubDate>Mon, 13 Mar 2023 05:36:30 GMT</pubDate>
       <enclosure url="https://lleisong.github.io/podcast/audio/001_OITNB_Season1.mp3" type="audio/mpeg" length="48540167" />
       <itunes:duration>2987.782</itunes:duration>
       <guid isPermaLink="false">qw0001</guid>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
       <description><![CDATA[<p>距离《女子监狱》(Orange Is the New Black)第一季的上映已经过去了10年的时间。
       作为一个关注性别和酷儿议题的播客，我们将首期奉献给Orange开播十周年的纪念，
       围绕第一季从性别、阶级、种族等视角展开讨论。</p><p>《女子监狱》的原型和Piper的人生有什么样的重叠和不同之处？
@@ -67,11 +76,12 @@
       <author>如是和芥子</author>
       <itunes:author>如是和芥子</itunes:author>
       <title>上野千鹤子中国行：《始于极限》、全嘻嘻、戴锦华及其他</title>
-      <pubDate>13 May 2023</pubDate>
+      <pubDate>Sat, 13 May 2023 00:00:00 GMT</pubDate>
       <enclosure url="https://lleisong.github.io/podcast/audio/002_Ueno_Chizuko.mp3" type="audio/mpeg" length="45848489" />
       <itunes:duration>2999.954</itunes:duration>
       <guid isPermaLink="false">qw0002</guid>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
       <description><![CDATA[<p>
       今年三月，上野千鹤子与包括全嘻嘻在内的三位北大女生的对话在争议声中登顶热搜。
       此后不久，她与北大戴锦华老师的对谈也被广为转发。
@@ -137,11 +147,12 @@
       <author>如是和芥子</author>
       <itunes:author>如是和芥子</itunes:author>
       <title>性别视角下的《重启人生》：轮回的可能性与局限性</title>
-      <pubDate>24 May 2023</pubDate>
+      <pubDate>Wed, 24 May 2023 00:00:00 GMT</pubDate>
       <enclosure url="https://lleisong.github.io/podcast/audio/003_Brush_Up_Life.mp3" type="audio/mpeg" length="43620616" />
       <itunes:duration>2908.505</itunes:duration>
       <guid isPermaLink="false">qw0003</guid>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
       <description><![CDATA[<p>
       年初上映的日剧《重启人生》在国内收到了众多好评与广泛讨论。
       什么样的政治经济背景催生了这部剧在国内的爆火？轮回穿越类题材的想象力的局限体现在哪？
