@@ -6,7 +6,7 @@
     <author>如是和芥子</author>
     <itunes:author>如是和芥子</itunes:author>
     <itunes:email>queerworldpod@gmail.com</itunes:email>
-    <itunes:category text="Society &amp; Culture &amp; Books" />
+    <itunes:category text="Society &amp; Culture"> <itunes:category text="Book" /></itunes:category>
     <image>
       <url>https://LLeiSong.github.io/podcast/logo.jpg</url>
       <title>Queer World 异世界</title>
