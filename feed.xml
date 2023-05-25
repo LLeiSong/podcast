@@ -6,7 +6,7 @@
     <author>如是和芥子</author>
     <itunes:author>如是和芥子</itunes:author>
     <itunes:email>queerworldpod@gmail.com</itunes:email>
-    <itunes:category text="Society &amp; Culture"> <itunes:category text="Book" /></itunes:category>
+    <itunes:category text="Society &amp; Culture" />
     <image>
       <url>https://LLeiSong.github.io/podcast/logo.jpg</url>
       <title>Queer World 异世界</title>
@@ -29,7 +29,7 @@
       <itunes:author>如是和芥子</itunes:author>
       <title>女子监狱(Orange Is the New Black)开播十周年纪念</title>
       <pubDate>13 Mar 2023</pubDate>
-      <enclosure url="audio/001_OITNB_Season1.mp3" type="audio/mpeg" length="48540167" />
+      <enclosure url="https://lleisong.github.io/podcast/audio/001_OITNB_Season1.mp3" type="audio/mpeg" length="48540167" />
       <itunes:duration>2987.782</itunes:duration>
       <guid isPermaLink="false">qw0001</guid>
       <itunes:explicit>no</itunes:explicit>
@@ -68,7 +68,7 @@
       <itunes:author>如是和芥子</itunes:author>
       <title>上野千鹤子中国行：《始于极限》、全嘻嘻、戴锦华及其他</title>
       <pubDate>13 May 2023</pubDate>
-      <enclosure url="audio/002_Ueno_Chizuko.mp3" type="audio/mpeg" length="45848489" />
+      <enclosure url="https://lleisong.github.io/podcast/audio/002_Ueno_Chizuko.mp3" type="audio/mpeg" length="45848489" />
       <itunes:duration>2999.954</itunes:duration>
       <guid isPermaLink="false">qw0002</guid>
       <itunes:explicit>no</itunes:explicit>
@@ -138,7 +138,7 @@
       <itunes:author>如是和芥子</itunes:author>
       <title>性别视角下的《重启人生》：轮回的可能性与局限性</title>
       <pubDate>24 May 2023</pubDate>
-      <enclosure url="audio/003_Brush_Up_Life.mp3" type="audio/mpeg" length="43620616" />
+      <enclosure url="https://lleisong.github.io/podcast/audio/003_Brush_Up_Life.mp3" type="audio/mpeg" length="43620616" />
       <itunes:duration>2908.505</itunes:duration>
       <guid isPermaLink="false">qw0003</guid>
       <itunes:explicit>no</itunes:explicit>
